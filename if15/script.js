@@ -12,5 +12,4 @@ function maxSumPair(a, b, c) {
   }
 }
 
-// Misol
-maxSumPair(5, 8, 3); // 5 8
+maxSumPair(5, 8, 3); 
